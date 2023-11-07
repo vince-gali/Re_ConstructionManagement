@@ -9,5 +9,7 @@ public class Project
     //STUB - add additional ? to line above to get examples from blackbox 
     public string Status {get; set;}
     public string CompletionDate {get; set;}
+
+    public string CreatorId {get; set;}
 }
 
